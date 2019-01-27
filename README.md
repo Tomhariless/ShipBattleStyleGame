@@ -1,0 +1,2 @@
+# ShipBattleStyleGame
+Just Java Training
